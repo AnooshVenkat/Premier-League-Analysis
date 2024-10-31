@@ -24,8 +24,8 @@ The above mentioned details can be found [here](https://www.linkedin.com/posts/a
 
 ![image info](Images/xGD.png)
 ![image info](Images/xPts.png)
-![image info](Images/kai havertz.png)
-![image info](Images/dom solanke.png)
+![image info](Images/kaihavertz.png)
+![image info](Images/domsolanke.png)
 ![image info](Images/haaland.png)
-![image info](Images/mo salah.png)
+![image info](Images/mosalah.png)
 ![image info](Images/Liverpool.png)

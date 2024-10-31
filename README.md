@@ -23,3 +23,9 @@ After seven games being played till now, there is little to nothing separating t
 The above mentioned details can be found [here](https://www.linkedin.com/posts/anoosh-solayappan_with-no-premier-league-games-to-look-forward-activity-7251221509468233729-kOXA?utm_source=share&utm_medium=member_desktop).
 
 ![image info](Images/xGD.png)
+![image info](Images/xPts.png)
+![image info](Images/kai havertz.png)
+![image info](Images/dom solanke.png)
+![image info](Images/haaland.png)
+![image info](Images/mo salah.png)
+![image info](Images/Liverpool.png)

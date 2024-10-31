@@ -20,4 +20,4 @@ Not so spectacular yet impressive feats:
 
 After seven games being played till now, there is little to nothing separating the leaders from the pack. This season promises to be an intriguing one, with many teams investing in the squad and not necessarily the playing XI indicating the preparedness if the injury bug hits them.
 
-The above mentioned details can be found [here].(https://www.linkedin.com/posts/anoosh-solayappan_with-no-premier-league-games-to-look-forward-activity-7251221509468233729-kOXA?utm_source=share&utm_medium=member_desktop)
+The above mentioned details can be found [here](https://www.linkedin.com/posts/anoosh-solayappan_with-no-premier-league-games-to-look-forward-activity-7251221509468233729-kOXA?utm_source=share&utm_medium=member_desktop).

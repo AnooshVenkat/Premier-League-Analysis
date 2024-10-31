@@ -1,6 +1,6 @@
 # Premier-League-Analysis
 
-With no Premier League games to look forward to this weekend, I decided to analyze the current Premier League scenario using data visualization with Python. Looking forward to your feedback and suggestions!
+With no Premier League games to look forward to this weekend, I decided to analyze the current Premier League scenario using data visualization with Python. Here are my takeaways!
 
 Some of the eye-catching performances:
 • Fulham, under Marco Silva, have recruited smartly in the last couple of windows, making a cohesive front-footed team with a band of Premier League-proven players. Their xGD is currently fourth in the league owing to some impressive displays from their attacking players, bar Adama Traore, who was guilty of missing a couple of easy chances against Manchester City.
